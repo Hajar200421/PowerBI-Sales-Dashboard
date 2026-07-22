@@ -35,7 +35,15 @@ This project presents an interactive sales dashboard built with Microsoft Power 
 
 ## Screenshots
 
-> Add your dashboard screenshots here.
+## Screenshots
+
+![Dashboard 1](powerbi-01.png)
+
+![Dashboard 2](powerbi-02.png)
+
+![Dashboard 3](powerbi-03.png)
+
+![Dashboard 4](powerbi-04.png)
 
 ## Key Skills Demonstrated
 
